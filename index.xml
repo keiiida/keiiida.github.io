@@ -1,133 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home title on Kei IIDA&#39;s Page</title>
+    <title>Home at Kei IIDA&#39;s Page on Kei IIDA&#39;s Page</title>
     <link>https://keiiida.github.io/</link>
-    <description>Recent content in Home title on Kei IIDA&#39;s Page</description>
+    <description>Recent content in Home at Kei IIDA&#39;s Page on Kei IIDA&#39;s Page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Oct 2017 15:26:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://keiiida.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hello world!</title>
-      <link>https://keiiida.github.io/hello_world/</link>
-      <pubDate>Tue, 17 Oct 2017 14:00:45 +0000</pubDate>
+      <title>About Me (Japanese)</title>
+      <link>https://keiiida.github.io/japanease/about_me_j/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://keiiida.github.io/hello_world/</guid>
-      <description>Hello world!</description>
-    </item>
-    
-    <item>
-      <title>Hello_world</title>
-      <link>https://keiiida.github.io/posts/hello_world/</link>
-      <pubDate>Tue, 17 Oct 2017 14:00:45 +0000</pubDate>
-      
-      <guid>https://keiiida.github.io/posts/hello_world/</guid>
+      <guid>https://keiiida.github.io/japanease/about_me_j/</guid>
       <description>aaaaaa
 vvvv
 aaa</description>
     </item>
     
     <item>
-      <title>Hello_world2</title>
-      <link>https://keiiida.github.io/archives/hello_world2/</link>
-      <pubDate>Sun, 17 Dec 2017 14:00:45 +0000</pubDate>
+      <title>test post</title>
+      <link>https://keiiida.github.io/posts/2020_0625_post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://keiiida.github.io/archives/hello_world2/</guid>
-      <description>aaaaaa
-vvvv
-aaa</description>
-    </item>
-    
-    <item>
-      <title>Hello_world2</title>
-      <link>https://keiiida.github.io/blog/hello_world2/</link>
-      <pubDate>Sun, 17 Dec 2017 14:00:45 +0000</pubDate>
-      
-      <guid>https://keiiida.github.io/blog/hello_world2/</guid>
-      <description>aaaaaa
-vvvv
-aaa</description>
-    </item>
-    
-    <item>
-      <title>Hello_world2</title>
-      <link>https://keiiida.github.io/entry/hello_world2/</link>
-      <pubDate>Sun, 17 Dec 2017 14:00:45 +0000</pubDate>
-      
-      <guid>https://keiiida.github.io/entry/hello_world2/</guid>
-      <description>aaaaaa
-vvvv
-aaa</description>
-    </item>
-    
-    <item>
-      <title>Hello_world1</title>
-      <link>https://keiiida.github.io/archives/hello_world1/</link>
-      <pubDate>Fri, 17 Nov 2017 14:00:45 +0000</pubDate>
-      
-      <guid>https://keiiida.github.io/archives/hello_world1/</guid>
-      <description>aaaaaa
-vvvv
-aaa</description>
-    </item>
-    
-    <item>
-      <title>Hello_world1</title>
-      <link>https://keiiida.github.io/blog/hello_world1/</link>
-      <pubDate>Fri, 17 Nov 2017 14:00:45 +0000</pubDate>
-      
-      <guid>https://keiiida.github.io/blog/hello_world1/</guid>
-      <description>aaaaaa
-vvvv
-aaa</description>
-    </item>
-    
-    <item>
-      <title>Hello_world1</title>
-      <link>https://keiiida.github.io/entry/hello_world1/</link>
-      <pubDate>Fri, 17 Nov 2017 14:00:45 +0000</pubDate>
-      
-      <guid>https://keiiida.github.io/entry/hello_world1/</guid>
-      <description>aaaaaa
-vvvv
-aaa</description>
-    </item>
-    
-    <item>
-      <title>Hello_world</title>
-      <link>https://keiiida.github.io/archives/hello_world/</link>
-      <pubDate>Tue, 17 Oct 2017 14:00:45 +0000</pubDate>
-      
-      <guid>https://keiiida.github.io/archives/hello_world/</guid>
-      <description>aaaaaa
-vvvv
-aaa</description>
-    </item>
-    
-    <item>
-      <title>Hello_world</title>
-      <link>https://keiiida.github.io/blog/hello_world/</link>
-      <pubDate>Tue, 17 Oct 2017 14:00:45 +0000</pubDate>
-      
-      <guid>https://keiiida.github.io/blog/hello_world/</guid>
-      <description>aaaaaa
-vvvv
-aaa</description>
-    </item>
-    
-    <item>
-      <title>Hello_world</title>
-      <link>https://keiiida.github.io/entry/hello_world/</link>
-      <pubDate>Tue, 17 Oct 2017 14:00:45 +0000</pubDate>
-      
-      <guid>https://keiiida.github.io/entry/hello_world/</guid>
-      <description>aaaaaa
-vvvv
-aaa</description>
+      <guid>https://keiiida.github.io/posts/2020_0625_post/</guid>
+      <description>Just for test.</description>
     </item>
     
   </channel>
