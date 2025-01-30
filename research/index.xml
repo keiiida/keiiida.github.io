@@ -5,10 +5,6 @@
     <link>https://keiiida.github.io/research/</link>
     <description>Recent content in Research Projects on Web page of Kei IIDA @KINDAI Univ. Japan.</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://keiiida.github.io/research/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://keiiida.github.io/research/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

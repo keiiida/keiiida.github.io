@@ -5,11 +5,7 @@
     <link>https://keiiida.github.io/posts/</link>
     <description>Recent content in Posts on Web page of Kei IIDA @KINDAI Univ. Japan.</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://keiiida.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://keiiida.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>test post</title>
       <link>https://keiiida.github.io/posts/2020_0625_post/</link>
